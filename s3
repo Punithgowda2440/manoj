@@ -1,2 +1,7 @@
 git commit -m "msg"
 git push --set-upstream origin test
+git commit -m "msg"
+git push --set-upstream origin test
+git branch 
+git switch
+
