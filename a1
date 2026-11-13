@@ -1,2 +1,7 @@
 mkcdcm kdkc dk cdk cdqwokpd owdowdl
 NVlnKNVknsvnSVNNDVknv sdlvn
+git tag 
+git tag -d v2
+git push origin --delete tag name
+git revert
+
